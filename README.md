@@ -17,3 +17,7 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - La memorización es una técnica para guardar cómputos previos y evitar realizarlos nuevamente.
 - Normalmente se utiliza un diccionario, donde las consultas se pueden hacer en O(1).
 - Intercambia tiempo por espacio.
+
+### Camionos aleatorios
+- Es un tipo de simulación que elige aleatoriamente una decisión dentro de un conjunto de decisiones válidas.
+- Se utiliza en muchos campos del conocimiento cuando los sistemas no son deterministas e incluyen elementos de aleatoriedad
