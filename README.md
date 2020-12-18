@@ -10,3 +10,5 @@
 ### Programación Dinámica
 El nombre programación dinámica se escogió para esconder a patrocinadores gubernamentales el hecho que en realidad estaba haciendo matemáticas. La frese programación dinámica es algo que ningún congresista puede oponerse.
 
+- **Subestructura Óptima**. Una solución global óptima se puede encontrar al combinar soluciones óptimas de subproblemas locales.
+- **Problemas empalmados**. Una solución que involucra resolver el mismo problema en varias ocasiones.
