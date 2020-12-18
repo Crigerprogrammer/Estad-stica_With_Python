@@ -12,3 +12,8 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 
 - **Subestructura Óptima**. Una solución global óptima se puede encontrar al combinar soluciones óptimas de subproblemas locales.
 - **Problemas empalmados**. Una solución que involucra resolver el mismo problema en varias ocasiones.
+
+### Memoization
+- La memorización es una técnica para guardar cómputos previos y evitar realizarlos nuevamente.
+- Normalmente se utiliza un diccionario, donde las consultas se pueden hacer en O(1).
+- Intercambia tiempo por espacio.
