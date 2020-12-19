@@ -46,3 +46,4 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - ¿Qué pasa cuando no sabemos las probabilidades de los eventos simples?
 - Las técnicas de la inferencia Estadística nos permiten inferir/concluir las propiedades de una población a partir de una muestra aleatoria.
 
+El principio guía de la inferencia estadística es que una muestra aleatoria tiende a exhibir las mismas propiedades que la población de la cual fue extraída.
