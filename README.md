@@ -26,3 +26,4 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - Un programa es determínistico si cuando se corre en el mismo input produce el mismo output
 - Los programas determiniísticos son muy importantes, pero existen problemas que no pueden resolverse de esa manera
 - La programación estocástica permite introducir aleatoriedad a nuestros programas para crear simulaciones que permiten resolver otro tipo de problemas
+- Los programas estocásticos se aprovechan de que las distribuciones probabilísticas de un problema se conocen o pueden ser estimadas
