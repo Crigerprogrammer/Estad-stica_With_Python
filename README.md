@@ -47,3 +47,8 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - Las técnicas de la inferencia Estadística nos permiten inferir/concluir las propiedades de una población a partir de una muestra aleatoria.
 
 El principio guía de la inferencia estadística es que una muestra aleatoria tiende a exhibir las mismas propiedades que la población de la cual fue extraída.
+
+### Ley de los grandes números
+- En pruebas independientes repetidas con la misma probabilidad p de un resultado, la fracción de desviaciones de p converge a cero conforme las cantidad de pruebas se acerca al infinito.
+
+
