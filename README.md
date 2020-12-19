@@ -40,3 +40,9 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
     - Mutuamente exclusivos
 - P(A o B) = P(A) + P(B) - P(A y B) (No exclusivos)
     - Ley aditiva
+
+## Inferencia Estadística
+- Con las simulaciones podemos calcular las probabilidades de eventos complejos sabiendo las probabilidades de eventos simples
+- ¿Qué pasa cuando no sabemos las probabilidades de los eventos simples?
+- Las técnicas de la inferencia Estadística nos permiten inferir/concluir las propiedades de una población a partir de una muestra aleatoria.
+
