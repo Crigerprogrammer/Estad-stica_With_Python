@@ -54,3 +54,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 ### Falacia del apostador
 - La falacia del apostador señala que después de un evento extremo, ocurrirán eventos menos extremos para nivelar la media
 - La regresión a la media señala que después de un evento aleatorio extremo, el siguiente evento probablemente será menos extremo.
+
+### Media
+- Es una medida de tendencia central
+- Comúnmente es conocida como el promedio
+- La media de una población se denota con el simbolo u . La media de una muestra se denota con X
