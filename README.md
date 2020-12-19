@@ -27,3 +27,8 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - Los programas determiniísticos son muy importantes, pero existen problemas que no pueden resolverse de esa manera
 - La programación estocástica permite introducir aleatoriedad a nuestros programas para crear simulaciones que permiten resolver otro tipo de problemas
 - Los programas estocásticos se aprovechan de que las distribuciones probabilísticas de un problema se conocen o pueden ser estimadas
+
+### Probabilidades
+- La probabilidad es una medida de la certidubmbre asociada a un evento o suceso futuro y suele expresarse como un número entre 0 y 1
+- Una probabilidad de 0 significa que un suceso jamás sucederá
+- Una probabilidad de 1 significa que un suceso está garantizado de suceder en el futuro
