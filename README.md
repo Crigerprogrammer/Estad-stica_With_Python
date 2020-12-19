@@ -51,4 +51,6 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 ### Ley de los grandes números
 - En pruebas independientes repetidas con la misma probabilidad p de un resultado, la fracción de desviaciones de p converge a cero conforme las cantidad de pruebas se acerca al infinito.
 
-
+### Falacia del apostador
+- La falacia del apostador señala que después de un evento extremo, ocurrirán eventos menos extremos para nivelar la media
+- La regresión a la media señala que después de un evento aleatorio extremo, el siguiente evento probablemente será menos extremo.
