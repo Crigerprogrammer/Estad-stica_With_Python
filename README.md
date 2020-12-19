@@ -32,3 +32,11 @@ El nombre programación dinámica se escogió para esconder a patrocinadores gub
 - La probabilidad es una medida de la certidubmbre asociada a un evento o suceso futuro y suele expresarse como un número entre 0 y 1
 - Una probabilidad de 0 significa que un suceso jamás sucederá
 - Una probabilidad de 1 significa que un suceso está garantizado de suceder en el futuro
+- P(A) + P(-A) = 1
+    - Ley del complemento
+- P(A y B) = P(A) * P(B)
+    - Ley multiplicativa
+- P(A o B) = P(A) + P(B)
+    - Mutuamente exclusivos
+- P(A o B) = P(A) + P(B) - P(A y B) (No exclusivos)
+    - Ley aditiva
