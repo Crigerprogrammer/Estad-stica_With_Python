@@ -64,3 +64,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - La varianza mide qué tan propagados se encuentran un conjunto de valores aleatorios de su media.
 - Mientras que la media nos da una idea de dónde se encuentran los valores, la varianza nos dice que tan dispersos se encuentran.
 - La varianza siempre debe entenderse con respecto a la media
+
+### Desviación estándar
+- La desviación estándar es la raíz cuadrada de la varianza.
+- Nos permite entender, también, la propagación y se debe entender siempre relacionado a la media.
+- La ventaja sobre la varianza es que la desviación estándar está en las mismas unidades que la media.
