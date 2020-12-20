@@ -19,5 +19,10 @@ def desviacion_estandar(X):
 if __name__ == '__main__':
     X = [random.randint(1, 21) for i in range(20)]
     mu = media(X)
-    print(mu)
-    print(X)
+    Var = varianza(X)
+    sigma = desviacion_estandar(X)
+    
+    print(f'Arreglo X: {X}')
+    print(f'Media = {mu}')
+    print(f'Varianza = {Var}')
+    print(f'Desviación Estándar = {sigma}')
