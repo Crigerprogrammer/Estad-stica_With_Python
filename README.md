@@ -59,3 +59,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Es una medida de tendencia central
 - Comúnmente es conocida como el promedio
 - La media de una población se denota con el simbolo u . La media de una muestra se denota con X
+
+### Varianza
+- La varianza mide qué tan propagados se encuentran un conjunto de valores aleatorios de su media.
+- Mientras que la media nos da una idea de dónde se encuentran los valores, la varianza nos dice que tan dispersos se encuentran.
+- La varianza siempre debe entenderse con respecto a la media
