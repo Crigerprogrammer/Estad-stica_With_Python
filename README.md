@@ -79,3 +79,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - También conocida como la regla 68-95-99.7
 - Señala cuál es la dispersión de los datos en una distribución normal a uno, dos y tres sigmas
 - Permite calcular probabilidades con la densidad de la distribución normal
+
+### Simulaciones de Montecarlo
+- Permite crear simulaciones para predecir el resultado de un problema
+- Permite convertir problemas determinísticos en problemas estocásticos
+- Es utilizado en una gran diversidad de áreas, desde la ingeniería hasta la biología y el derecho.
