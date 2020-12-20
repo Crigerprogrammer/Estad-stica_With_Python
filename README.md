@@ -74,3 +74,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Es una de las distribuciones más recurrentes en cualquier ámbito
 - Se define completamente por su media y su desviación estándar
 - Permite calcular intervalos de confianza con la regla empírica.
+
+### Regla empírica
+- También conocida como la regla 68-95-99.7
+- Señala cuál es la dispersión de los datos en una distribución normal a uno, dos y tres sigmas
+- Permite calcular probabilidades con la densidad de la distribución normal
