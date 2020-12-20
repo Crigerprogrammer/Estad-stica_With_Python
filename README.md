@@ -69,3 +69,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - La desviación estándar es la raíz cuadrada de la varianza.
 - Nos permite entender, también, la propagación y se debe entender siempre relacionado a la media.
 - La ventaja sobre la varianza es que la desviación estándar está en las mismas unidades que la media.
+
+### Distribución normal
+- Es una de las distribuciones más recurrentes en cualquier ámbito
+- Se define completamente por su media y su desviación estándar
+- Permite calcular intervalos de confianza con la regla empírica.
