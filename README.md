@@ -93,3 +93,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - En un muestreo aleatorio cualquier miembro de la población tiene la misma probabilidad de ser escogido
 - En un muestreo estratitificado tomamos en consideración las características de la población para partirla en subgrupos y luego tomamos muestras de cada subgrupo.
     - Incrementala probabilidad de que el muestreo sea representativo de la población
+
+### Teorema del límite central
+- Es uno de los teoremas más importantes de la estadística
+- Establece que muestras aleatorias de cualquier distribución van a tener una distribución normal
+- Permite entender cualquier distribución como la distribución normal de sus medias y eso nos permite aplicar todo lo que sabemos de distribuciones normales
