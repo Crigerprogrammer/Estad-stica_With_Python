@@ -104,3 +104,7 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Es necesario comenzar con una teoría o hipótesis sobre el resultado al que se quiere llegar
 - Basado en la hipótesis se debe crear un experimento para validad o falsear la hipótesis
 - Se valida o falsea una hipótesis midiendo la diferencia entre las mediciones experimentales y aquellas mediciones predichas por la hipótesis
+
+### Regresión Lineal
+- Permite aproximar una función a un conjunto de datos obtenidos de manera experimental
+- No necesariamente permite aproximar funciones lineales, sino que sus variantes permiten aproximar cualquier función polinómica
