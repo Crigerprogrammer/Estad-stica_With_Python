@@ -108,3 +108,9 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 ### Regresión Lineal
 - Permite aproximar una función a un conjunto de datos obtenidos de manera experimental
 - No necesariamente permite aproximar funciones lineales, sino que sus variantes permiten aproximar cualquier función polinómica
+
+### Conclusiones
+- La programación dinámica permite optimizar problemas que tienen subestructura óptima y subproblemas empalmados
+- Las computadoras pueden resolver problemas determinísticos y estocásticos
+- Podemos generar simulaciones computacionales para responder preguntas del mundo real
+- La inferencia estadística nos permite tener confianza de que nuestras simulaciones arrojan resultados válidos
