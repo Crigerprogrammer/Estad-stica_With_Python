@@ -90,3 +90,6 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Hay ocasiones en la que no tenemos acceso a toda la población que queremos explorar
 - Uno de los grandes descubrimientos de la estadística es que las muestras aleatorias tienden a mostrar las mismas propiedades de la población objetivo
 - El tipo de muestreo que hemos hecho hasta ahora es muestreo probabilistíco 
+- En un muestreo aleatorio cualquier miembro de la población tiene la misma probabilidad de ser escogido
+- En un muestreo estratitificado tomamos en consideración las características de la población para partirla en subgrupos y luego tomamos muestras de cada subgrupo.
+    - Incrementala probabilidad de que el muestreo sea representativo de la población
