@@ -84,3 +84,4 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Permite crear simulaciones para predecir el resultado de un problema
 - Permite convertir problemas determinísticos en problemas estocásticos
 - Es utilizado en una gran diversidad de áreas, desde la ingeniería hasta la biología y el derecho.
+
