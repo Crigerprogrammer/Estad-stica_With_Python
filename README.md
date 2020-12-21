@@ -85,3 +85,8 @@ El principio guía de la inferencia estadística es que una muestra aleatoria ti
 - Permite convertir problemas determinísticos en problemas estocásticos
 - Es utilizado en una gran diversidad de áreas, desde la ingeniería hasta la biología y el derecho.
 
+## Muestreo
+
+- Hay ocasiones en la que no tenemos acceso a toda la población que queremos explorar
+- Uno de los grandes descubrimientos de la estadística es que las muestras aleatorias tienden a mostrar las mismas propiedades de la población objetivo
+- El tipo de muestreo que hemos hecho hasta ahora es muestreo probabilistíco 
